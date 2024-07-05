@@ -1,1 +1,1 @@
-# batiksemarang
+# Batik-Semarang-App
